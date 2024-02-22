@@ -1,0 +1,15 @@
+body{
+    background-image: url("photo-1499331940637-67e8c9351dc9.jpeg"); 
+    background-repeat: no-repeat; 
+    background-size: 100%;
+    font-style: oblique;
+}
+table{
+    background-color: rgb(70, 23, 60);
+}
+button{
+    background-color: #45330c;
+}
+input{
+    background-color: rgb(112, 106, 133);
+}
